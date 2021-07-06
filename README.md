@@ -1,5 +1,7 @@
 # ThinkJava
 An active Java IDE coded in C# for students, hobbyists, teams, friends and companies. Fetaures invalid lines, error list, project explorer, auto completion (Senzo), applet maker, game maker for busy people or individuals. IDE project made for sixth grade elementary school project and for everyone. [Official website here.](https://zeanfender119.wixsite.com/thinkjava)
+</br>
+***Note: this version of ThinkJava in this organization is outdated. To go to modify the latest version of ThinkJava, [click here for the latest source code and IDE version.](https://github.com/zeankundev/ThinkJava)***
 <br>
 [![Download ThinkJava. The Professional Java IDE](https://img.shields.io/sourceforge/dm/thinkjava-ide.svg)](https://sourceforge.net/projects/thinkjava-ide/files/latest/download)
 [![Download ThinkJava. The Professional Java IDE](https://img.shields.io/sourceforge/dt/thinkjava-ide.svg)](https://sourceforge.net/projects/thinkjava-ide/files/latest/download)
@@ -10,7 +12,7 @@ An active Java IDE coded in C# for students, hobbyists, teams, friends and compa
 <img src="https://img.shields.io/badge/buildversion-148-red">
 
 ## What's new?
-:pushpin: In Build 148 (21st May 2021)
+:pushpin: In Build 148 (deprecated, to go to the latest version of this code, [click here to grab the latest and modify.](https://github.com/zeankundev/ThinkJava))
 <br>
 :heavy_check_mark: Discord Rich Presence implementation
 </br>
